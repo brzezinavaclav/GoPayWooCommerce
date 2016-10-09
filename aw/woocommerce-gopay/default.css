@@ -1,0 +1,59 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+	
+.link {
+    color:black;
+    text-decoration:none;
+}
+
+hr {
+    color: #000000;
+    background-color: #000000;
+    height: 1px;
+    border:none;
+}
+.shop1 td{
+	border-bottom:1px solid black;
+}
+
+.button{
+	background-color:#009dd1;
+	color:white;
+	font-weight:bold;
+}
+
+.foot{
+	background-color:#009dd1;
+	width:100%;
+	height:50px;
+	color:white;
+	border-top:2px solid silver;
+	padding-left:10px;
+}
+
+.head{
+    background-color: #009dd1;
+    width: 100%;
+    height: 150px;
+    color: white;
+    border-bottom: 2px solid silver;
+}
+
+.head_nadpis{
+    font-size: 20pt;
+    margin-left: 50px;
+}
+
+.head_nadpis2{
+    font-size: 10pt;
+    margin-left: 50px;
+}
+
+.content{
+    border:1px solid #F2F2F2;
+	background-color:#F2F2F2;
+	padding-left:10px;
+	padding-bottom:10px;
+}

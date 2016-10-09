@@ -1,0 +1,55 @@
+WooCommerce GoPay Payment Plugin
+AW-DEV v.o.s (helpdesk@aw-dev.cz)
+
+Latest version: 1.5.5, GoPay_API 2.3
+Required: WordPress 3.5+ 
+          WooCommerce 2.0+ (tested on 2.0.9,2.0.12)
+	  Server support for SOAP and OPEN-SSL
+
+
+/*****************************************************************************
+				TESTOVANI BRANY
+/*****************************************************************************
+
+TESTOVACI UZIVATEL PRO GOPAY PENEZENKU
+Go přezdívka: test01
+Heslo: Test0001
+
+TESTOVACI PROSTREDI PRO SUPERCACHE
+https://testgw.gopay.cz/gp-gateways/supercash/gateway.action
+
+
+/*****************************************************************************
+			   RELEASE - NOTES AND CHANGES
+/*****************************************************************************
+version - 1.5.5 - 19.7.2013
+- opravena chybejici platebni metoda
+
+version - 1.5.4 - 19.7.2013
+- zmena stavu pri platbe TIMEOUTED na stav objednavky cancelled
+
+version - 1.5.3 - 19.7.2013 
+- moznost menit loga (4 prednastavena)
+- moznost zapnout a vypnout ladici rezim
+- moznost zmenit email kam se ladici emaily zasilaji
+- moznost vybrat platebni metody, pokud neni zadna nastavi se GoPay penezenka
+
+version - 1.5.2 - 12.7.2013
+- pridano logo k platebni brane (zatím napevno)
+
+version - 1.5.1 - 7.7.2013
+- doplneny anglicky preklad
+
+version - 1.5   - 20.6.2013
+- zakladni verze nasaditelna jako plugin
+
+
+/*****************************************************************************
+		@TODO / !WHISHLIST (helpdesk@aw-dev.cz)
+/*****************************************************************************
+- doplnit prenaseni jazyka na gopay branu
+- pridat moznost znovuzaplaceni (zruseni predchozi transakce, zalozeni nove)
+
+since 1.5.3 - pridat moznost zapnout vypnout ladici rezim
+since 1.5.3 - přidat možnost volit dostupné platební metody z administrace
+

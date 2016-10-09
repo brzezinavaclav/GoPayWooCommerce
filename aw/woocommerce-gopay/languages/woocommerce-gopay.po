@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommece GoPay 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-11 13:03+0100\n"
+"PO-Revision-Date: 2013-07-11 13:05+0100\n"
+"Last-Translator: Jakub Frieb <jakub@aw-dev.cz>\n"
+"Language-Team: AW-DEV, v.o.s <info@aw-dev.cz>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../woocommerce-gopay.php:138
+msgid "GoPay"
+msgstr ""
+
+#: ../woocommerce-gopay.php:280
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../woocommerce-gopay.php:282
+msgid "Enable GoPay Gateway"
+msgstr ""
+
+#: ../woocommerce-gopay.php:286
+msgid "Title"
+msgstr ""
+
+#: ../woocommerce-gopay.php:288
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: ../woocommerce-gopay.php:289
+msgid "GoPay Gateway"
+msgstr ""
+
+#: ../woocommerce-gopay.php:293
+msgid "Customer Message"
+msgstr ""
+
+#: ../woocommerce-gopay.php:295
+msgid "Give the customer instructions for paying via GoPay, and let them know that their order won't be shipping until the money is received."
+msgstr ""
+
+#: ../woocommerce-gopay.php:296
+msgid "Platba přes GoPay je rychlá a bezpečná."
+msgstr ""
+
+#: ../woocommerce-gopay.php:299
+msgid "GoPay Sales ID"
+msgstr ""
+
+#: ../woocommerce-gopay.php:301
+msgid "Custom Sales ID of shop.You will obtain it from GoPay. If you don't have it yet, please use testing \"8540279704\"."
+msgstr ""
+
+#: ../woocommerce-gopay.php:305
+msgid "Enter you GoPay ID"
+msgstr ""
+
+#: ../woocommerce-gopay.php:309
+msgid "GoPay secure key"
+msgstr ""
+
+#: ../woocommerce-gopay.php:311
+msgid "Enter your aquired secure key. You will obtain it from GoPay. If you don't have it yet, please use testing \"ocxgXEL5psb7PAllKuCSblc9\"."
+msgstr ""
+
+#: ../woocommerce-gopay.php:315
+msgid "Enter you GoPay securekey"
+msgstr ""
+
+#: ../woocommerce-gopay.php:320
+msgid "TESTOVACÍ / OSTRÝ režim"
+msgstr ""
+
+#: ../woocommerce-gopay.php:322
+msgid "Zapnutím nebo vypnutím určujete zda modul poběží v testovacím režimu."
+msgstr ""
+
+#: ../woocommerce-gopay.php:326
+msgid "zaškrtnuté znamená testovací provoz"
+msgstr ""
+
+#: ../woocommerce-gopay.php:328
+msgid "testovací provoz"
+msgstr ""
+
+#: ../woocommerce-gopay.php:333
+msgid "Stránka při chybě"
+msgstr ""
+
+#: ../woocommerce-gopay.php:335
+msgid "zadejte celou cestu ke stránce s chybou"
+msgstr ""
+
+#: ../woocommerce-gopay.php:338
+msgid "Stránka při chybné transakci"
+msgstr ""
+
+#: ../woocommerce-gopay.php:344
+msgid "Stránka pro úspěšnou transakci. "
+msgstr ""
+
+#: ../woocommerce-gopay.php:346
+msgid "Stránka pokud se vše podaří"
+msgstr ""
+
+#: ../woocommerce-gopay.php:350
+msgid "Stránka pokud se vše podaři."
+msgstr ""
+
+#: ../woocommerce-gopay.php:370
+msgid "GoPay Payment (helpdesk@aw-dev.cz)"
+msgstr ""
+
+#: ../woocommerce-gopay.php:371
+msgid "Allows payments through GoPay Gateway"
+msgstr ""
+
+#: ../woocommerce-gopay.php:453
+msgid "Objednávka byla uhrazena."
+msgstr ""
+
+#: ../woocommerce-gopay.php:460
+#: ../woocommerce-gopay.php:468
+msgid "Objednávka nebyla zatím uhrazena."
+msgstr ""
+
+#: ../woocommerce-gopay.php:477
+msgid "Platba za objednávku byla zrušena."
+msgstr ""
+
+#: ../woocommerce-gopay.php:485
+msgid "Platební příkaz za objednávku vypršel."
+msgstr ""
+
+#: ../woocommerce-gopay.php:493
+msgid "Platba byla autorizována ale ještě nebyla uhrazena."
+msgstr ""
+
+#: ../woocommerce-gopay.php:501
+msgid "Platba za objednávku byla vrácena."
+msgstr ""
+
+#: ../woocommerce-gopay.php:510
+msgid "Platba selhala. Pro další postup nás prosím kontaktujte."
+msgstr ""
+
+#: ../woocommerce-gopay.php:545
+msgid "Our Details"
+msgstr ""
+
+#: ../woocommerce-gopay.php:570
+msgid "Awaiting GoPay payment"
+msgstr ""
+
